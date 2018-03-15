@@ -1,3 +1,9 @@
+# [Ubicomp 2018](http://ubicomp.org/ubicomp2018/cfps/papers.html)
+
+### 2018-05-15
+
+---
+
 # [CSCW 2018](https://cscw.acm.org/2018/submit/papers.html)
 
 ### 2018-04-16
