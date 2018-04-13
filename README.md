@@ -1,3 +1,9 @@
+# [CHI 2018](https://sigchi.org/conferences/upcoming-conferences/)
+
+### 2018-09-14
+
+---
+
 # [Ubicomp 2018](http://ubicomp.org/ubicomp2018/cfps/papers.html)
 
 ### 2018-05-15
