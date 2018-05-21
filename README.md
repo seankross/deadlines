@@ -1,6 +1,13 @@
-# [CHI 2018](https://sigchi.org/conferences/upcoming-conferences/)
+
+# [CHI 2019](https://sigchi.org/conferences/upcoming-conferences/)
 
 ### 2018-09-14
+
+---
+
+# [SIGCSE 2019](https://sigcse2019.sigcse.org/)
+
+### 2018-08-31
 
 ---
 
